@@ -176,8 +176,8 @@ export default function AnalyticsPage() {
               )}
             </div>
           </div>
-
-          {/* Severity Breakdown */}
+{/* extra */}
+          {/* Severity Breakdown*/}
           <div className="rounded-2xl border border-slate-800 bg-slate-900/80 p-6 h-fit">
             <h2 className="text-xl font-semibold mb-4 text-slate-100">Severity breakdown</h2>
             <div className="space-y-3">
